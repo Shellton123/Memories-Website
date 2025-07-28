@@ -188,16 +188,5 @@
   z-index: 970; 
 }
 
-.download {
-    width: 40px;              /* spans full width of the page */
-    height: 40px;             /* adjust height as needed */
-    background-color: rgb(48, 48, 48);  /* makes the box black */
-    position: fixed;          /* stays at top on scroll */
-    top: 20px;
-    left: 1875px;
-    z-index: 9999; 
-  }
-
-
 
 

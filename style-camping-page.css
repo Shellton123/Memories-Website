@@ -197,6 +197,6 @@
     background-color: rgb(48, 48, 48);  /* makes the box black */
     position: fixed;          /* stays at top on scroll */
     top: 20px;
-    left: 1875px;
+    left: 1850px;
     z-index: 9999; 
   }
