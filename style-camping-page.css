@@ -82,7 +82,7 @@
     cursor: pointer;
 
     position: fixed;
-    top: 1020px;    /* distance from top */
+    top: 900px; /* distance from top */
     left: 0px;   /* distance from left */
     font-size: 32px;
     color: #ddd9d9;
