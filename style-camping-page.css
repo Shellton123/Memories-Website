@@ -1,0 +1,202 @@
+.img1 {
+    position: absolute;
+    top: 300px;
+    left: 200px;
+    width: 600px;
+    z-index: 999; 
+  }
+
+
+  body {
+    margin: 0;
+    position: relative;
+    height: 100vh;
+    background-image: url(Images/Background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+  }
+
+  .title {
+    position: fixed;
+    top: 350px;    /* distance from top */
+    left: 1290px;   /* distance from left */
+    font-size: 32px;
+    color: #0a0a0a;
+    text-decoration: none;
+  }
+
+  .top-bar {
+    width: 100%;              /* spans full width of the page */
+    height: 80px;             /* adjust height as needed */
+    background-color: rgb(48, 48, 48);  /* makes the box black */
+    position: fixed;          /* stays at top on scroll */
+    top: 0;
+    left: 0;
+    z-index: 9998;            /* makes sure it's on top of other elements */
+  }
+  
+  .Link {
+    position: absolute;
+    top: 250px;    /* distance from top */
+    left: 260px;   /* distance from left */
+    font-size: 32px;
+    color: #000000;
+    text-decoration: none;
+  }
+
+  .P1 {
+    position: absolute;
+    top: 725px;    /* distance from top */
+    left: 240px;   /* distance from left */
+    font-size: 24px;
+    text-align: center;
+    color: #000000;
+  }
+
+
+  .P3 {
+    position: absolute;
+    top: 1050px;    /* distance from top */
+    left: 1400px;   /* distance from left */
+    font-size: 18px;
+    color: #ddd9d9;
+  }
+
+
+  .text-box {
+    width: 500px;            /* set max width */
+    padding: 10px;
+    word-wrap: break-word;   /* make sure long words wrap */
+    overflow-wrap: break-word;
+    overflow: hidden;  
+  }
+  
+  #toggle-music {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #444;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+    position: fixed;
+    top: 1020px;    /* distance from top */
+    left: 0px;   /* distance from left */
+    font-size: 32px;
+    color: #ddd9d9;
+    text-decoration: none;
+  }
+
+  .box{
+    width:620px;
+    height: 470px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    top: 290px;    /* distance from top */
+    left: 190px; 
+    z-index: 998; 
+  }
+
+  .home {
+    width: 40px;              /* spans full width of the page */
+    height: 40px;             /* adjust height as needed */
+    background-color: rgb(48, 48, 48);  /* makes the box black */
+    position: fixed;          /* stays at top on scroll */
+    top: 20px;
+    left: 10px;
+    z-index: 9999; 
+  }
+
+  .anyaura { 
+    position: absolute;
+    top: 575px;
+    left: 101px;
+    width: 300px;
+    transform: rotate(357deg);
+    z-index: 998; 
+  }
+  .sunset1{
+    position: absolute;
+    top: 100px;
+    left: 1000px;
+    width: 400px;
+    transform: rotate(350deg); 
+    z-index: 998; 
+  }
+
+  .sunset2{
+    position: absolute;
+    top: 90px;
+    left: 35px;
+    width: 300px;
+    transform: rotate(0deg); 
+    z-index: 997; 
+  }
+
+  .sunset3{
+    position: absolute;
+    top: 500px;
+    left: 550px;
+    width: 300px;
+    transform: rotate(10deg); 
+    z-index: 997; 
+  }
+
+  .damon{
+    position: absolute;
+    top: 100px;
+    left: 350px;
+    width: 200px;
+    transform: rotate(355deg); 
+    z-index: 997; 
+  }
+
+  .beach{
+    position: absolute;
+    top: 640px;
+    left: 850px;
+    width: 415px;
+    height: 415px;
+    transform: rotate(355deg);
+    z-index: 999; 
+  }
+
+  .girls{
+    position: absolute;
+    top: 250px;
+    left: 1450px;
+    width: 415px;
+    transform: rotate(0deg); 
+    z-index: 999; 
+  }
+
+  .me{
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    width: 300px;
+    transform: rotate(350deg); 
+    z-index: 999; 
+  }
+.box2 {
+  width:425px;
+  height: 470px;
+  background-color: rgb(150, 148, 148);
+  position: absolute;
+  top: 0px;    /* distance from top */
+  left: 1495px; 
+  height: 960px;
+  z-index: 970; 
+}
+
+.download {
+    width: 40px;              /* spans full width of the page */
+    height: 40px;             /* adjust height as needed */
+    background-color: rgb(48, 48, 48);  /* makes the box black */
+    position: fixed;          /* stays at top on scroll */
+    top: 20px;
+    left: 1875px;
+    z-index: 9999; 
+  }
